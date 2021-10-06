@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Contact 
+# Contact 
 You can reach to me on discord MoOyAnI#9570
